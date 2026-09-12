@@ -1,4 +1,4 @@
-# ¡Hola! Soy Juan Osorio 👋
+# 初めまして！ Soy Juan Osorio 🙇‍♂️
 
 Desarrollador de Software enfocado en arquitectura **Backend (Java / Spring Boot)**, desarrollo **Frontend (React)** y procesamiento de datos.
 
