@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner de Bienvenida -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:6DB33F&height=200&section=header&text=¡Hola!%20Soy%20Mauricio%20Mejía%20👋&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:6DB33F&height=200&section=header&text=¡Hola!%20Soy%20Juan%20Osorio%20👋&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" />
 
   <h3>🚀 Desarrollador de Software | Backend & Data Pipelines</h3>
 
