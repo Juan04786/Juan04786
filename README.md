@@ -50,6 +50,15 @@
 
 ---
 
+### 📊 Estadísticas y Contribuciones
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Juan04786&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan04786&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6beb&height=80&section=footer" width="100%" />
 </div>
