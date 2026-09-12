@@ -28,11 +28,12 @@ Desarrollador de Software enfocado en arquitectura **Backend (Java / Spring Boot
 
 ---
 
-### 📊 Estadísticas
+### 📊 Estadísticas y Actividad
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Juan04786&show_icons=true&theme=dark&hide_border=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan04786&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juan04786&theme=dark&background=0d1117&border=161b22&stroke=58a6ff&ring=1f6beb&fire=1f6beb" alt="GitHub Streak" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juan04786&theme=zenburn" alt="Resumen GitHub" width="49%" />
+</p>
 
 ---
 
