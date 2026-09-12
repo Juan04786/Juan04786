@@ -1,28 +1,6 @@
-<div align="center">
+# ¡Hola! Soy Juan Osorio 👋
 
-  <!-- Banner SVG Animado -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6beb,100:0d1117&height=180&section=header&text=Juan%20Osorio%20👋&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
-
-  <p align="center">
-    <b>Desarrollador Full Stack en Formación</b> | Apasionado por la arquitectura limpia en <b>Java (Spring Boot)</b> y el desarrollo reactivo con <b>React</b>.
-  </p>
-
-  <!-- Contador de Visitas y Badges de Contacto -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Juan04786&color=1f6beb&style=flat-square&label=Vistas+del+perfil" alt="Profile Views" />
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:tu-correo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  </p>
-
-</div>
-
----
-
-### 🚀 Actualmente...
-
-- 🔭 **Enfoque actual:** Profundizando en la arquitectura por capas (**Controller-Service-Repository**) con Spring Boot y JPA.
-- ⚛️ **Frontend:** Construyendo componentes modulares reusables en React aplicando composición con `props` y `children`.
-- 🧠 **Metodología:** Aplicando el enfoque de *Primeros Principios* para entender la infraestructura subyacente del software.
+Desarrollador de Software enfocado en arquitectura **Backend (Java / Spring Boot)**, desarrollo **Frontend (React)** y procesamiento de datos.
 
 ---
 
@@ -50,7 +28,15 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6beb&height=80&section=footer" width="100%" />
-</div>
+### 📊 Estadísticas
 
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Juan04786&show_icons=true&theme=dark&hide_border=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan04786&layout=compact&theme=dark&hide_border=true)
+
+---
+
+### 📫 Contacto
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
