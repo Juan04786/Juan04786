@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- Banner SVG Animado -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6beb,100:0d1117&height=180&section=header&text=Juan%20Osorio%20👋&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6beb,100:0d1117&height=180&section=header&text=Mauricio%20Mejía%20👋&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
 
   <p align="center">
-    <b>Desarrollador Full Stack en Formación</b> | Apasionado por la arquitectura limpia en <b>Java (Spring Boot)</b> y el desarrollo reactivo con <b>React</b>.
+    <b>Desarrollador de Software</b> | Apasionado por la arquitectura limpia en <b>Java (Spring Boot)</b> y el desarrollo reactivo con <b>React</b>.
   </p>
 
   <!-- Contador de Visitas y Badges de Contacto -->
@@ -50,12 +50,11 @@
 
 ---
 
-### 📊 Estadísticas y Contribuciones
+### 📊 Gráfico de Actividad y Contribuciones
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juan04786&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan04786&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juan04786&theme=react-dark&hide_border=true&area=true" width="100%" alt="Gráfico de Actividad" />
+</div>
 
 ---
 
